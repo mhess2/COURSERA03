@@ -1,7 +1,7 @@
 
 # Coursera
 # Peer Graded Assignment: Getting and Cleaning Data Course Project
-# mhess2 2017-02
+# mhess2 2017-03
 
 # Requirements:
 # 1. Merge the training and the test sets to create one data set.
