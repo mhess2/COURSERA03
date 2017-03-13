@@ -84,4 +84,4 @@ names(dat) <- gsub("BodyBody", "Body", names(dat))
 tidy <- aggregate(dat[3:ncol(dat)], by = list(SubjectID = dat$SubjectID, Activity = dat$Activity), FUN = mean)
 
 # Export the data
-write.table(tidy, "MeansBySubjectandActivity.txt", row.names = FALSE)
+write.table(tidy, "TidySamsung.txt", row.names = FALSE)
