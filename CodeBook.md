@@ -42,8 +42,8 @@ Below are the names, types, and units of measurement for each variable within th
 
 Variable Name	|	Type	|	Unit
 -	|	-	|	-
-SubjectID	|	Integer	|	
-Activity	|	String	|	
+SubjectID	|	Integer	|	NA
+Activity	|	String	|	NA
 TimeBodyAcc_Mean_X	|	Numeric	|	Hertz
 TimeBodyAcc_Mean_Y	|	Numeric	|	Hertz
 TimeBodyAcc_Mean_Z	|	Numeric	|	Hertz
