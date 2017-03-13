@@ -41,7 +41,6 @@ Below are the names, types, and units of measurement for each variable within th
 **Note:** Numeric refers to values with decimals whereas integer refers to only whole numbers. 
 
 Variable Name	|	Type	|	Unit
--	|	-	|	-
 SubjectID	|	Integer	|	NA
 Activity	|	String	|	NA
 TimeBodyAcc_Mean_X	|	Numeric	|	Hertz
