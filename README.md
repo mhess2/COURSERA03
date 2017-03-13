@@ -28,14 +28,14 @@ Step 3. Use Descriptive Activity Names
 ---
 The activity data used a series of codes (1 - 6) to describe what activity was performed. These codes were not obvious as to what activity was being measured. In order to make more sense, I re-coded the activity codes to the appropriate activity names. Below is the original code and the transformed activity name:
 
-Code | Activity Name
--|-
-1	|	WALKING
-2	|	WALKING_UPSTAIRS
-3	|	WALKING_DOWNSTAIRS
-4	|	SITTING
-5	|	STANDING
-6	|	LAYING
+|Code | Activity Name|
+|-|-|
+|1	|	WALKING|
+|2	|	WALKING_UPSTAIRS|
+|3	|	WALKING_DOWNSTAIRS|
+|4	|	SITTING|
+|5	|	STANDING|
+|6	|	LAYING|
 
 Step 4. Appropriately Re-Label the Data Set
 ---
